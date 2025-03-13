@@ -5,4 +5,6 @@ This project focuses on the real-time detection of needle cage bearings on the T
 🧠 Tech Stack: YOLOv8 (for detection) + Python Tkinter (for GUI).
 🎥 Demo Video: Live testing conducted at Tata Motors Jamshedpur.
 🔐 Note: Model weights are not shared publicly due to confidentiality.
+
+
 📄 Supporting Docs: Includes patent initiation email and Letter of Recommendation (LOR) from our professor.
